@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Safety Users">ff6640852f3631107c7a235df699b648</applicability>
+        <order>200</order>
+        <screen display_value="Safety Landing Page Default">3273bfb02ff231107c7a235df699b633</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-27 04:12:31</sys_created_on>
+        <sys_id>66b688092f3631107c7a235df699b617</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_snc_safety">29e52a02719031107f4433c5d599b613</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">29e52a02719031107f4433c5d599b613</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_66b688092f3631107c7a235df699b617</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-27 04:12:31</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

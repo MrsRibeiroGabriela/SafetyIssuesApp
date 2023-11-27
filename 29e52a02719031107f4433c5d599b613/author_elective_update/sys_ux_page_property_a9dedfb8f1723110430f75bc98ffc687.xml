@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="Safety ws">21dedfb88e723110e97ecb2a36dd2898</page>
+        <required_translations>[ {
+  "message" : "New Issues",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-27 01:18:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>a9dedfb8f1723110430f75bc98ffc687</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Safety" source="x_snc_safety">29e52a02719031107f4433c5d599b613</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">29e52a02719031107f4433c5d599b613</sys_scope>
+        <sys_update_name>sys_ux_page_property_a9dedfb8f1723110430f75bc98ffc687</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-27 01:18:24</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_snc_safety.21dedfb88e723110e97ecb2a36dd2898.root.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Issues"},"routeInfo":{"route":"record","fields":{"table":"x_snc_safety_issues","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_safety_issues","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=a9dedfb8f1723110430f75bc98ffc687"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">29e52a02719031107f4433c5d599b613</application>
+        <file_path/>
+        <instance_id>b0ef66f1dbc5b38449eac59705961975</instance_id>
+        <instance_name>dev83875</instance_name>
+        <name>sys_ux_page_property_a9dedfb8f1723110430f75bc98ffc687</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Tabs Configuration</description><name>chrome_tab</name><page display_value="Safety ws">21dedfb88e723110e97ecb2a36dd2898</page><required_translations>[ {
+  "message" : "New Issues",
+  "comment" : ""
+} ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-27 01:18:16</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>a9dedfb8f1723110430f75bc98ffc687</sys_id><sys_mod_count>1</sys_mod_count><sys_name>chrome_tab</sys_name><sys_package display_value="Safety" source="x_snc_safety">29e52a02719031107f4433c5d599b613</sys_package><sys_policy/><sys_scope display_value="Safety">29e52a02719031107f4433c5d599b613</sys_scope><sys_update_name>sys_ux_page_property_a9dedfb8f1723110430f75bc98ffc687</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-27 01:18:24</sys_updated_on><type>json</type><unique_name>x_snc_safety.21dedfb88e723110e97ecb2a36dd2898.root.chrome_tab</unique_name><value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Issues"},"routeInfo":{"route":"record","fields":{"table":"x_snc_safety_issues","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_snc_safety_issues","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=a9dedfb8f1723110430f75bc98ffc687"/></record_update>]]></payload>
+        <payload_hash>337538375</payload_hash>
+        <record_name>chrome_tab</record_name>
+        <reverted_from/>
+        <source>09fd9b742f7231107c7a235df699b6f4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-27 01:18:24</sys_created_on>
+        <sys_id>48ee93f82f7231107c7a235df699b62f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c0e5b27fe0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-27 01:18:24</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>ccee93f8be723110d54e533f4be08b2e</update_guid>
+        <update_guid_history>ccee93f8be723110d54e533f4be08b2e:337538375,44ee93f873723110432c2d426d25122d:1928697135</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-27 02:45:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>3e816d56dc0240e8a0985867475f3240</sys_id>
+        <sys_metadata>a9dedfb8f1723110430f75bc98ffc687</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Safety" source="x_snc_safety">29e52a02719031107f4433c5d599b613</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">29e52a02719031107f4433c5d599b613</sys_scope>
+        <sys_scope_delete display_value="">a7321cc2c3074b319483b86f4f7513f9</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_a9dedfb8f1723110430f75bc98ffc687</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_a9dedfb8f1723110430f75bc98ffc687">48ee93f82f7231107c7a235df699b62f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-27 02:45:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
